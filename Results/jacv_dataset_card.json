@@ -1,0 +1,23 @@
+{
+  "raw_corpus": 1000,
+  "eligible_after_filters": 725,
+  "anchor_sample": 200,
+  "ready_anchors": 120,
+  "jacv_cls_total": 360,
+  "jacv_adv_total": 240,
+  "adv_A_correct": 119,
+  "adv_B_correct": 121,
+  "generation_errors": 0,
+  "validation_errors": 0,
+  "rejected_counterfactuals": 329,
+  "generator_chain": [
+    "Llama 3.3 70B",
+    "Llama 4 Maverick 17B",
+    "Mistral Large 3"
+  ],
+  "validator_chain": [
+    "Claude Sonnet 4",
+    "Claude 3.5 Haiku",
+    "Mistral Large 3"
+  ]
+}

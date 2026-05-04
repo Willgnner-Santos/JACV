@@ -1,0 +1,3006 @@
+{
+  "cls": {
+    "REC_00001_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00001_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00001_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00002_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00002_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00002_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00003_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00003_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00003_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00004_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00004_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00004_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00005_ORIG": {
+      "gold": "COHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00005_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00005_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00006_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00006_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00006_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00009_ORIG": {
+      "gold": "COHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00009_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00009_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00012_ORIG": {
+      "gold": "COHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00012_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00012_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00014_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00014_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00014_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00016_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00016_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00016_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00020_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00020_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00020_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00021_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00021_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00021_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00022_ORIG": {
+      "gold": "COHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00022_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00022_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00023_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00023_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00023_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00024_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00024_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00024_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00028_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00028_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00028_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00032_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00032_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00032_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00033_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00033_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00033_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00034_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00034_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00034_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00035_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00035_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00035_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00038_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00038_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00038_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00047_ORIG": {
+      "gold": "COHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00047_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00047_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00048_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00048_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00048_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00049_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00049_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00049_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00050_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00050_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00050_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00052_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00052_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00052_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00055_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00055_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00055_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00056_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00056_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00056_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00058_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00058_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00058_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00060_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00060_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00060_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00062_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00062_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00062_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00063_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00063_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00063_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00064_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00064_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00064_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00066_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00066_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00066_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00069_ORIG": {
+      "gold": "COHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00069_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00069_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00070_ORIG": {
+      "gold": "COHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00070_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00070_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00071_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00071_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00071_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00076_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00076_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00076_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00077_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00077_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00077_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00079_ORIG": {
+      "gold": "COHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00079_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00079_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00080_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00080_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00080_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00081_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00081_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00081_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00082_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00082_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00082_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00083_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00083_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00083_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00085_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00085_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00085_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00087_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00087_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00087_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00088_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00088_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00088_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00089_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00089_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00089_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00090_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00090_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00090_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00091_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00091_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00091_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00092_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00092_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00092_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00093_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00093_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00093_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00094_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00094_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00094_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00096_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00096_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00096_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00098_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00098_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00098_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00099_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00099_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00099_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00103_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00103_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00103_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00104_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00104_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00104_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00106_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00106_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00106_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00107_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00107_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00107_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00108_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00108_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00108_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00112_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00112_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00112_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00113_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00113_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00113_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00114_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00114_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00114_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00116_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00116_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00116_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00117_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00117_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00117_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00118_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00118_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00118_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00119_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00119_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00119_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00123_ORIG": {
+      "gold": "COHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00123_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00123_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00125_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00125_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00125_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00126_ORIG": {
+      "gold": "COHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00126_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00126_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00127_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00127_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00127_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00129_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00129_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00129_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00131_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00131_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00131_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00137_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00137_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00137_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00140_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00140_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00140_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00143_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00143_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00143_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00144_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00144_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00144_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00145_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00145_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00145_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00147_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00147_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00147_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00148_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00148_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00148_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00149_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00149_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00149_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00150_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00150_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00150_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00151_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00151_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00151_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00152_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00152_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00152_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00153_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00153_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00153_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00155_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00155_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00155_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00156_ORIG": {
+      "gold": "COHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00156_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00156_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00157_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00157_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00157_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00158_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00158_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00158_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00159_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00159_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00159_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00161_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00161_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00161_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00162_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00162_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00162_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00163_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00163_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00163_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00165_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00165_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00165_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00166_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00166_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00166_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00167_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00167_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00167_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00169_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00169_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00169_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00170_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00170_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00170_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00171_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00171_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00171_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00172_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00172_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00172_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00173_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00173_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00173_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00174_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00174_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00174_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00176_ORIG": {
+      "gold": "COHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00176_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00176_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00177_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00177_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00177_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00180_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00180_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00180_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00181_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00181_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00181_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00183_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00183_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00183_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00184_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00184_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00184_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00185_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00185_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00185_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00187_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00187_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00187_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00188_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00188_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00188_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00189_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00189_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00189_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00191_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00191_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00191_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00192_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00192_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00192_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00193_ORIG": {
+      "gold": "COHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00193_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00193_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00195_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00195_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00195_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00196_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00196_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00196_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    },
+    "REC_00197_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00197_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00197_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00198_ORIG": {
+      "gold": "COHERENT",
+      "pred": "COHERENT",
+      "raw": "COHERENT"
+    },
+    "REC_00198_INCOHERENT": {
+      "gold": "INCOHERENT",
+      "pred": "INCOHERENT",
+      "raw": "INCOHERENT"
+    },
+    "REC_00198_CONTRADICTORY": {
+      "gold": "CONTRADICTORY",
+      "pred": "CONTRADICTORY",
+      "raw": "CONTRADICTORY"
+    }
+  },
+  "adv": {
+    "REC_00001_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00001_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00002_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00002_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00003_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00003_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00004_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00004_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00005_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00005_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00006_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00006_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00009_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00009_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00012_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00012_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00014_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00014_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00016_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00016_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00020_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00020_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00021_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00021_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00022_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00022_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00023_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00023_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00024_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00024_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00028_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00028_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00032_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00032_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00033_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00033_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00034_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00034_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00035_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00035_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00038_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00038_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00047_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00047_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00048_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00048_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00049_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00049_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00050_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00050_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00052_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00052_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00055_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00055_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00056_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00056_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00058_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00058_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00060_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00060_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00062_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00062_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00063_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00063_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00064_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00064_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00066_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00066_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00069_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00069_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00070_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00070_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00071_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00071_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00076_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00076_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00077_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00077_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00079_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00079_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00080_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00080_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00081_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00081_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00082_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00082_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00083_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00083_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00085_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00085_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00087_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00087_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00088_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00088_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00089_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00089_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00090_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00090_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00091_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00091_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00092_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00092_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00093_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00093_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00094_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00094_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00096_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00096_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00098_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00098_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00099_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00099_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00103_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00103_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00104_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00104_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00106_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00106_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00107_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00107_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00108_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00108_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00112_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00112_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00113_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00113_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00114_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00114_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00116_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00116_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00117_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00117_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00118_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00118_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00119_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00119_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00123_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00123_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00125_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00125_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00126_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00126_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00127_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00127_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00129_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00129_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00131_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00131_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00137_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00137_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00140_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00140_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00143_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00143_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00144_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00144_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00145_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00145_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00147_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00147_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00148_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00148_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00149_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00149_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00150_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00150_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00151_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00151_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00152_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00152_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00153_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00153_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00155_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00155_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00156_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00156_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00157_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00157_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00158_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00158_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00159_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00159_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00161_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00161_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00162_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00162_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00163_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00163_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00165_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00165_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00166_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00166_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00167_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00167_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00169_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00169_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00170_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00170_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00171_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00171_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00172_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00172_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00173_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00173_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00174_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00174_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00176_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00176_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00177_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00177_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00180_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00180_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00181_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00181_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00183_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00183_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00184_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00184_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00185_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00185_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00187_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00187_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00188_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00188_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00189_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00189_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00191_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00191_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00192_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00192_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00193_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00193_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00195_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00195_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00196_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00196_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00197_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00197_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "A"
+    },
+    "REC_00198_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    },
+    "REC_00198_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "B"
+    }
+  }
+}

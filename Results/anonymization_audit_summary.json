@@ -1,0 +1,67 @@
+{
+  "spacy_model_used": "pt_core_news_md",
+  "total_documents": 1000,
+  "mask_stats": {
+    "[CPF]": 7001,
+    "[CNPJ]": 6125,
+    "[RG_DOCUMENTO]": 184407,
+    "[EMAIL]": 29642,
+    "[TELEFONE]": 184400,
+    "[CEP]": 3647,
+    "[VALOR_MONETARIO]": 48152,
+    "[DATA]": 109704,
+    "[PLACA_VEICULO]": 1858,
+    "[ENDERECO_IP]": 690,
+    "[PROCESSO]": 1490,
+    "[DADO_BANCARIO]": 240,
+    "[IDADE_OCULTA]": 387,
+    "[OAB]": 146,
+    "[INQUERITO]": 15,
+    "[DOC_11_DIGITOS]": 2,
+    "[TRIBUNAL]": 61686,
+    "[VARA_COMARCA]": 10584,
+    "[ATOR_JURIDICO]": 27556,
+    "[PAPEL_PROCESSUAL]": 77559,
+    "[POLITICA_SINDICATO]": 1851,
+    "[SAUDE_GERAL]": 1127,
+    "[FAMILIA_CRITICO]": 1721,
+    "[RELIGIAO_RACA]": 1053,
+    "[VIOLENCIA_ABUSO]": 7126,
+    "[PSIQUIATRIA_SUICIDIO]": 179,
+    "[BIOMETRIA_GENETICA]": 77,
+    "[VIDA_SEXUAL]": 31,
+    "[LOCAL_NLP]": 596494,
+    "[PESSOA_FISICA_NLP]": 430015,
+    "[INSTITUICAO_NLP]": 451034
+  },
+  "per_field_rows": [
+    {
+      "field": "inteiro_teor",
+      "documents": 1000,
+      "total_chars_after_masking": 86434240,
+      "spacy_model_used": "pt_core_news_md",
+      "global_mask_replacements": 2245999
+    },
+    {
+      "field": "fato",
+      "documents": 1000,
+      "total_chars_after_masking": 17107320,
+      "spacy_model_used": "pt_core_news_md",
+      "global_mask_replacements": 2245999
+    },
+    {
+      "field": "direito",
+      "documents": 1000,
+      "total_chars_after_masking": 35267459,
+      "spacy_model_used": "pt_core_news_md",
+      "global_mask_replacements": 2245999
+    },
+    {
+      "field": "pedido",
+      "documents": 1000,
+      "total_chars_after_masking": 45288780,
+      "spacy_model_used": "pt_core_news_md",
+      "global_mask_replacements": 2245999
+    }
+  ]
+}

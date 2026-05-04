@@ -1,0 +1,51 @@
+{
+  "n_total": 1000,
+  "n_non_appeal": 500,
+  "n_appeal": 500,
+  "fields": {
+    "inteiro_teor": {
+      "label": "Full Text",
+      "words_mean": 13213.851,
+      "words_median": 5244.0,
+      "words_std": 54174.138939466604,
+      "words_p95": 33446.94999999998,
+      "chars_mean": 86479.05,
+      "chars_median": 33946.0,
+      "chars_std": 376419.17716462165,
+      "chars_p95": 216723.99999999997
+    },
+    "fato": {
+      "label": "Facts",
+      "words_mean": 2662.454,
+      "words_median": 956.0,
+      "words_std": 4924.47475630747,
+      "words_p95": 10875.349999999995,
+      "chars_mean": 17128.654,
+      "chars_median": 6166.5,
+      "chars_std": 31038.297622672504,
+      "chars_p95": 69135.34999999995
+    },
+    "direito": {
+      "label": "Legal Basis",
+      "words_mean": 5359.658,
+      "words_median": 1924.5,
+      "words_std": 48143.36989669549,
+      "words_p95": 11099.3,
+      "chars_mean": 35611.313,
+      "chars_median": 12426.0,
+      "chars_std": 339141.81782405137,
+      "chars_p95": 71476.39999999998
+    },
+    "pedido": {
+      "label": "Legal Claim",
+      "words_mean": 7133.545,
+      "words_median": 702.5,
+      "words_std": 38069.51393760394,
+      "words_p95": 21604.69999999998,
+      "chars_mean": 45955.105,
+      "chars_median": 4612.5,
+      "chars_std": 243687.33291643596,
+      "chars_p95": 143816.8
+    }
+  }
+}

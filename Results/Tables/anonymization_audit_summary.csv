@@ -1,0 +1,5 @@
+﻿field,documents,total_chars_after_masking,spacy_model_used,global_mask_replacements
+inteiro_teor,1000,86434240,pt_core_news_md,2245999
+fato,1000,17107320,pt_core_news_md,2245999
+direito,1000,35267459,pt_core_news_md,2245999
+pedido,1000,45288780,pt_core_news_md,2245999

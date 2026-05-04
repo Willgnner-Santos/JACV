@@ -1,0 +1,7 @@
+﻿stage,count
+Raw corpus,1000
+Eligible after filters,725
+Anchor sample,200
+Ready anchors,120
+JACV-CLS instances,360
+JACV-ADV pairs,240

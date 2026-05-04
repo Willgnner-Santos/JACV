@@ -1,0 +1,1205 @@
+{
+  "cls": {},
+  "adv": {
+    "REC_00001_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata do direito de servidores públicos"
+    },
+    "REC_00001_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que o servidor preencheu"
+    },
+    "REC_00002_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A autora, aposentada por invalidez, aleg"
+    },
+    "REC_00002_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A autora, aposentada por invalidez, aleg"
+    },
+    "REC_00003_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica discute a natureza da decisão de"
+    },
+    "REC_00003_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica expõe que a decisão de pronú"
+    },
+    "REC_00004_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica demonstra que há provas testemun"
+    },
+    "REC_00004_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica apresenta depoimentos que indicam um"
+    },
+    "REC_00005_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica discute a distinção entre ma"
+    },
+    "REC_00005_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica discute a distinção entre maus"
+    },
+    "REC_00006_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata da possibilidade de execução de nota"
+    },
+    "REC_00006_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica expõe que a execução de nota"
+    },
+    "REC_00009_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica demonstra que a servidora, admit"
+    },
+    "REC_00009_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica demonstra que a servidora, admit"
+    },
+    "REC_00012_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata da justiça restaurativa e da"
+    },
+    "REC_00012_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica expõe que, após a Lei"
+    },
+    "REC_00014_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica sustenta que o rompimento da"
+    },
+    "REC_00014_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica sustenta que o rompimento da"
+    },
+    "REC_00016_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que o autor comprovou o"
+    },
+    "REC_00016_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que há prova inequívoca"
+    },
+    "REC_00020_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica discute a necessidade de coerência e"
+    },
+    "REC_00020_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca a necessidade de coerência e"
+    },
+    "REC_00021_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve uma relação de consumo entre a"
+    },
+    "REC_00021_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve uma relação de consumo entre a"
+    },
+    "REC_00022_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca a obrigatoriedade da intervenção"
+    },
+    "REC_00022_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca a nulidade processual pela"
+    },
+    "REC_00023_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A [[LOCAL_NLP]] teve seu nome indevidamente insc"
+    },
+    "REC_00023_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A [[LOCAL_NLP]] teve seu nome indevidamente insc"
+    },
+    "REC_00024_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: O autor alega exercer posse mansa, pacífica"
+    },
+    "REC_00024_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: O autor alega exercer posse mansa, pacífica"
+    },
+    "REC_00028_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica aponta contradições e erros mat"
+    },
+    "REC_00028_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica aponta contradições na sentença,"
+    },
+    "REC_00032_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve a inadimplência da"
+    },
+    "REC_00032_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que a inadimplência da"
+    },
+    "REC_00033_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica expõe que a cobrança decor"
+    },
+    "REC_00033_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica expõe que a cobrança decor"
+    },
+    "REC_00034_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve um episódio em que"
+    },
+    "REC_00034_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação descreve agressão física praticada por profissional"
+    },
+    "REC_00035_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve uma situação em que policiais"
+    },
+    "REC_00035_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "B",
+      "raw": "Fatos Relevantes: A fundamentação descreve uma operação policial baseada em informações"
+    },
+    "REC_00038_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica afirma que as provas constantes nos"
+    },
+    "REC_00038_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica afirma que as provas constantes nos"
+    },
+    "REC_00047_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve uma ação de cobran"
+    },
+    "REC_00047_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve um contrato de prestação de"
+    },
+    "REC_00048_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica demonstra que a materialidade e autoria"
+    },
+    "REC_00048_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica demonstra que a materialidade e autoria"
+    },
+    "REC_00049_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve um inadimplemento contrat"
+    },
+    "REC_00049_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve um inadimplemento contrat"
+    },
+    "REC_00050_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca que a legislação processual"
+    },
+    "REC_00050_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca que a legislação processual"
+    },
+    "REC_00052_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata da concessão da gratuidade de"
+    },
+    "REC_00052_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica discute a concessão da gratuidade"
+    },
+    "REC_00055_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata do direito à indenização do"
+    },
+    "REC_00055_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica sustenta que o seguro DPVAT"
+    },
+    "REC_00056_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica reconhece a admissibilidade do recur"
+    },
+    "REC_00056_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica analisa a admissibilidade do recurso"
+    },
+    "REC_00058_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que a dosimetria da pena"
+    },
+    "REC_00058_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que a sentença deve ser mant"
+    },
+    "REC_00060_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que a absolvição do ap"
+    },
+    "REC_00060_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que a absolvição do ac"
+    },
+    "REC_00062_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: O autor, membro da Polícia Militar, busca a averbação"
+    },
+    "REC_00062_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que, diante da impossibilidade"
+    },
+    "REC_00063_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata da concessão de tutela de urg"
+    },
+    "REC_00063_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca a necessidade de tutela de"
+    },
+    "REC_00064_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A autora busca indenização por danos decorrentes de um"
+    },
+    "REC_00064_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que a empresa ré, responsável por"
+    },
+    "REC_00066_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica invoca o art. 22,"
+    },
+    "REC_00066_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica trata do direito do advogado"
+    },
+    "REC_00069_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica discute a legalidade da busca e ap"
+    },
+    "REC_00069_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve que a busca e apre"
+    },
+    "REC_00070_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve uma situação em que a aut"
+    },
+    "REC_00070_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve uma falha na prestação"
+    },
+    "REC_00071_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica expõe que os embargos de"
+    },
+    "REC_00071_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica afirma que não há obscuridade,"
+    },
+    "REC_00076_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata da aplicação dos índices de corre"
+    },
+    "REC_00076_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata da aplicação dos índices de corre"
+    },
+    "REC_00077_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica sustenta a manutenção da sent"
+    },
+    "REC_00077_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta a manutenção da sentença"
+    },
+    "REC_00079_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica discute a análise das circunstâ"
+    },
+    "REC_00079_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica aponta erro na valoração da circ"
+    },
+    "REC_00080_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "B",
+      "raw": "Fatos Relevantes: O autor, usuário da plataforma da ré, teve seu saldo bloqueado"
+    },
+    "REC_00080_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: O autor, pessoa física, utilizava a plataforma Kiwify para comercial"
+    },
+    "REC_00081_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: O imóvel locado apresentava problemas estruturais graves,"
+    },
+    "REC_00081_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: O imóvel locado apresentava problemas estruturais graves,"
+    },
+    "REC_00082_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata da execução de uma nota promiss"
+    },
+    "REC_00082_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica afirma que a nota promissória é"
+    },
+    "REC_00083_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes:  \nA fundamentação descreve um pedido de medidas protetivas de"
+    },
+    "REC_00083_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: O Ministério Público recorre da decisão que revogou medidas protetivas"
+    },
+    "REC_00085_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que não existe relação contratual entre"
+    },
+    "REC_00085_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que não existe relação contratual entre"
+    },
+    "REC_00087_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica expõe que a Emenda Constituc"
+    },
+    "REC_00087_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica expõe que a Emenda Constituc"
+    },
+    "REC_00088_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica expõe que a queixa-crime"
+    },
+    "REC_00088_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica expõe que a queixa-crime"
+    },
+    "REC_00089_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica trata da caracterização do empregado"
+    },
+    "REC_00089_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica detalha os requisitos para caracterização do"
+    },
+    "REC_00090_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica discute a aplicação do Código de Def"
+    },
+    "REC_00090_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica destaca a aplicação do Código de"
+    },
+    "REC_00091_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica aponta omissão do tribunal de origem"
+    },
+    "REC_00091_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica aponta que o tribunal de origem,"
+    },
+    "REC_00092_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica discute a inviolabilidade do domicí"
+    },
+    "REC_00092_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica discute a inviolabilidade do domic"
+    },
+    "REC_00093_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve uma relação de consumo em que"
+    },
+    "REC_00093_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que há relação de consumo, aplic"
+    },
+    "REC_00094_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata da execução de um contrato de prest"
+    },
+    "REC_00094_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica expõe que, diante da imposs"
+    },
+    "REC_00096_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica expõe que houve extinção"
+    },
+    "REC_00096_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica expõe que, inicialmente, o"
+    },
+    "REC_00098_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica sustenta que o direito à rem"
+    },
+    "REC_00098_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que o direito à remun"
+    },
+    "REC_00099_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica discute a legalidade da busca pessoal"
+    },
+    "REC_00099_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve que a busca pessoal realiz"
+    },
+    "REC_00103_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica afirma que há provas suficientes"
+    },
+    "REC_00103_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica afirma que o conjunto probatório é ine"
+    },
+    "REC_00104_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica analisa os pressupostos de ad"
+    },
+    "REC_00104_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica reconhece que o recurso de ap"
+    },
+    "REC_00106_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata do procedimento de ação de exig"
+    },
+    "REC_00106_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata do procedimento de ação de exig"
+    },
+    "REC_00107_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca o direito constitucional de"
+    },
+    "REC_00107_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica discorre sobre o direito fundamental de acesso"
+    },
+    "REC_00108_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca a necessidade de coerência e"
+    },
+    "REC_00108_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca a necessidade de coerência e"
+    },
+    "REC_00112_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica discute a ausência de clareza"
+    },
+    "REC_00112_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica apresenta dois argumentos conflitantes:"
+    },
+    "REC_00113_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica sustenta que o Ministério Público possui legitim"
+    },
+    "REC_00113_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: O Ministério Público interpôs recurso em sentido estrito contra decisão que"
+    },
+    "REC_00114_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: O acidente ocorreu porque a requerida avançou o s"
+    },
+    "REC_00114_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: O acidente ocorreu quando a requerida avançou um s"
+    },
+    "REC_00116_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata de vício redibitório e"
+    },
+    "REC_00116_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve uma situação de vício red"
+    },
+    "REC_00117_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca a ausência de notificação pesso"
+    },
+    "REC_00117_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca que, segundo a Lei 9"
+    },
+    "REC_00118_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca a necessidade de interpretação"
+    },
+    "REC_00118_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca a necessidade de interpretação"
+    },
+    "REC_00119_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve que a requerente possui notas"
+    },
+    "REC_00119_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve uma situação em que a parte"
+    },
+    "REC_00123_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: O Ministério Público recorre de decisão do Tribunal do Júri que abs"
+    },
+    "REC_00123_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes:  \nO Ministério Público recorre de decisão do Tribunal do Júri que"
+    },
+    "REC_00125_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica discute a existência de fumus"
+    },
+    "REC_00125_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que a decisão agravada se"
+    },
+    "REC_00126_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica rechaça os argumentos defensivos"
+    },
+    "REC_00126_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica rejeita os argumentos da defesa"
+    },
+    "REC_00127_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica expõe que o tribunal de orig"
+    },
+    "REC_00127_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: O tribunal de origem julgou procedente a revisão criminal para"
+    },
+    "REC_00129_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata de vício do serviço prestado por"
+    },
+    "REC_00129_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve uma situação de falha na"
+    },
+    "REC_00131_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica estabelece a existência de relação"
+    },
+    "REC_00131_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta a existência de relação de consumo"
+    },
+    "REC_00137_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica reconhece a admissibilidade do recur"
+    },
+    "REC_00137_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica reconhece a admissibilidade do recur"
+    },
+    "REC_00140_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve uma cena de homicídio"
+    },
+    "REC_00140_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes:  \nA fundamentação descreve um homicídio por arma branca"
+    },
+    "REC_00143_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata de uma ação em que o autor"
+    },
+    "REC_00143_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica destaca a imprescindibilidade dos"
+    },
+    "REC_00144_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica discute a natureza restritiva do"
+    },
+    "REC_00144_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve o SCR-Sisbacen"
+    },
+    "REC_00145_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que a autora pagou inde"
+    },
+    "REC_00145_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A autora pagou uma fatura que já estava quitada, result"
+    },
+    "REC_00147_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica reconhece a existência de dano"
+    },
+    "REC_00147_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica reconhece a existência de dano"
+    },
+    "REC_00148_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que não existe relação jurídica"
+    },
+    "REC_00148_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que não existe relação jurídica"
+    },
+    "REC_00149_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica invoca o direito fundamental à saúde ("
+    },
+    "REC_00149_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica invoca o direito à saúde como dire"
+    },
+    "REC_00150_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: O Ministério Público impetrou mandado de segurança em favor de uma substit"
+    },
+    "REC_00150_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: O Ministério Público impetrou mandado de segurança em favor de uma c"
+    },
+    "REC_00151_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata de recurso interposto pelo Ministério"
+    },
+    "REC_00151_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica trata de recurso interposto pelo"
+    },
+    "REC_00152_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: O texto descreve um acidente de trânsito em que"
+    },
+    "REC_00152_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve um acidente de trâ"
+    },
+    "REC_00153_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca a aplicação do Código de Def"
+    },
+    "REC_00153_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca a aplicação do Código de Def"
+    },
+    "REC_00155_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata de uma ação de cobrança"
+    },
+    "REC_00155_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que o Juizado Especial C"
+    },
+    "REC_00156_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata de recurso em sentido estrito inter"
+    },
+    "REC_00156_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica expõe que o réu foi pron"
+    },
+    "REC_00157_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata da proteção das liberdades fundament"
+    },
+    "REC_00157_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata da possibilidade de fixação de ind"
+    },
+    "REC_00158_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que a dívida é lí"
+    },
+    "REC_00158_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que o valor devido decorre"
+    },
+    "REC_00159_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que o ICMS não incide"
+    },
+    "REC_00159_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que o ICMS não incide"
+    },
+    "REC_00161_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica discute a inviolabilidade do domicí"
+    },
+    "REC_00161_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica discute a inviolabilidade do domicí"
+    },
+    "REC_00162_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca que a defesa foi regularmente"
+    },
+    "REC_00162_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca que a defesa foi regularmente"
+    },
+    "REC_00163_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica expõe que o Ministério Público discorda"
+    },
+    "REC_00163_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica expõe que o Ministério Público discorda"
+    },
+    "REC_00165_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica demonstra que a [[LOCAL_NLP]]"
+    },
+    "REC_00165_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica apresenta que a [[LOCAL_NLP]]"
+    },
+    "REC_00166_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca que o uso de algemas foi"
+    },
+    "REC_00166_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca que o uso de algemas foi"
+    },
+    "REC_00167_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata de inscrição indevida em cad"
+    },
+    "REC_00167_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata de inscrição indevida em cad"
+    },
+    "REC_00169_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica demonstra que a impetrante possui prova"
+    },
+    "REC_00169_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que o direito líquido"
+    },
+    "REC_00170_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata da responsabilidade do município de [LOCAL"
+    },
+    "REC_00170_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica discute a responsabilidade do município de ["
+    },
+    "REC_00171_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata da aplicação do Código de Defesa"
+    },
+    "REC_00171_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que a relação entre as partes é"
+    },
+    "REC_00172_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: O autor alega falha na prestação de serviço por parte da"
+    },
+    "REC_00172_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes:  \nO autor alega falha na prestação de serviço por parte"
+    },
+    "REC_00173_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca que a criança já convive com"
+    },
+    "REC_00173_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A criança já convive cotidianamente com a avó paterna,"
+    },
+    "REC_00174_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica discute a legalidade da entrada de polic"
+    },
+    "REC_00174_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica discute a legalidade da entrada de polic"
+    },
+    "REC_00176_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes:  \nO Ministério Público recorre de decisão do Tribunal do Júri que"
+    },
+    "REC_00176_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: O Ministério Público recorre da decisão do júri que absolveu"
+    },
+    "REC_00177_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: O autor busca a satisfação de crédito decorrente de descum"
+    },
+    "REC_00177_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve um caso em que o ré"
+    },
+    "REC_00180_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica invoca os arts. 884"
+    },
+    "REC_00180_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica invoca os arts. 884"
+    },
+    "REC_00181_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca cobranças indevidas de"
+    },
+    "REC_00181_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve cobranças indevidas"
+    },
+    "REC_00183_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica apresenta contrarrazões do Ministério"
+    },
+    "REC_00183_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: O apelante foi condenado por roubo (art."
+    },
+    "REC_00184_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica destaca a necessidade de coerência"
+    },
+    "REC_00184_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica discute a necessidade de coerência e"
+    },
+    "REC_00185_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica sustenta que o acórdão do"
+    },
+    "REC_00185_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica aponta que o acórdão do"
+    },
+    "REC_00187_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: O relato descreve uma prisão em flagrante de ["
+    },
+    "REC_00187_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: O relato descreve a prisão em flagrante de ["
+    },
+    "REC_00188_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica baseia-se no art. 23"
+    },
+    "REC_00188_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica baseia-se no art. 23"
+    },
+    "REC_00189_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: O autor adquiriu parte de um lote por cessão de dire"
+    },
+    "REC_00189_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "B",
+      "raw": "Fatos Relevantes: O autor alega hipossuficiência econômica e busca"
+    },
+    "REC_00191_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica trata de embargos de declaração"
+    },
+    "REC_00191_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica expõe que os embargos"
+    },
+    "REC_00192_ADV_INCOHERENT": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica expõe que, após a Em"
+    },
+    "REC_00192_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica expõe que, após a Em"
+    },
+    "REC_00193_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca o direito à saúde como dire"
+    },
+    "REC_00193_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca o direito à saúde como dire"
+    },
+    "REC_00195_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica apresenta o depoimento de [PE"
+    },
+    "REC_00195_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A ré [PESSOA_FISICA] nega veementemente"
+    },
+    "REC_00196_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve que a ré praticou public"
+    },
+    "REC_00196_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "A",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve que a ré praticou public"
+    },
+    "REC_00197_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes:  \nA fundamentação jurídica destaca o direito à inden"
+    },
+    "REC_00197_ADV_CONTRADICTORY": {
+      "gold": "A",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica destaca o direito à indenização"
+    },
+    "REC_00198_ADV_INCOHERENT": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes: A fundamentação jurídica descreve uma situação em que policiais"
+    },
+    "REC_00198_ADV_CONTRADICTORY": {
+      "gold": "B",
+      "pred": "ERROR",
+      "raw": "Fatos Relevantes:  \nA fundamentação descreve que policiais, em patrul"
+    }
+  }
+}

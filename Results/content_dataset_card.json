@@ -1,0 +1,69 @@
+{
+  "n_total": 1000,
+  "n_non_appeal": 500,
+  "n_appeal": 500,
+  "vocabulary": {
+    "inteiro_teor": {
+      "total": 5319622,
+      "unique": 81409,
+      "ttr": 0.015303530965170082
+    },
+    "fato": {
+      "total": 1223296,
+      "unique": 37049,
+      "ttr": 0.03028621036936277
+    },
+    "direito": {
+      "total": 2218696,
+      "unique": 49033,
+      "ttr": 0.02209991815012061
+    },
+    "pedido": {
+      "total": 2988075,
+      "unique": 64157,
+      "ttr": 0.021471013947106415
+    }
+  },
+  "lexical_richness": {
+    "inteiro_teor": {
+      "FirstInstance_mean": 0.49909844658554686,
+      "Appeal_mean": 0.3740106829687893
+    },
+    "fato": {
+      "FirstInstance_mean": 0.7355071994862566,
+      "Appeal_mean": 0.5569808998712861
+    },
+    "direito": {
+      "FirstInstance_mean": 0.6194948217796177,
+      "Appeal_mean": 0.5495910805834371
+    },
+    "pedido": {
+      "FirstInstance_mean": 0.6682884524840874,
+      "Appeal_mean": 0.5790847252098043
+    }
+  },
+  "article_citations": {
+    "top_20": {
+      "Art. 5": 412,
+      "Art. 1": 323,
+      "Art. 6": 182,
+      "Art. 3": 160,
+      "Art. 2": 133,
+      "Art. 14": 130,
+      "Art. 619": 119,
+      "Art. 33": 117,
+      "Art. 300": 111,
+      "Art. 186": 108,
+      "Art. 105": 101,
+      "Art. 927": 99,
+      "Art. 7": 99,
+      "Art. 59": 93,
+      "Art. 39": 85,
+      "Art. 4": 84,
+      "Art. 42": 81,
+      "Art. 121": 81,
+      "Art. 85": 74,
+      "Art. 129": 71
+    }
+  }
+}
