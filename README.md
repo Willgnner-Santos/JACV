@@ -17,6 +17,4 @@ The pipeline comprises several stages, including:
 ## Dataset Availability
 In compliance with legal and ethical requirements, the textual corpus will not be fully available in an open format, but may be provided upon request for academic purposes, subject to institutional authorization and the signing of a confidentiality and responsibility agreement, in accordance with the Brazilian General Data Protection Law (LGPD).
 
-## Contact
-**Author**: Willgnner-Santos  
-**Email**: eng.willgnner@gmail.com
+
