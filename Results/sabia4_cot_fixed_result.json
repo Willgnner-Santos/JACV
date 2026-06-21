@@ -1,0 +1,15 @@
+{
+  "model": "Sabia-4-CoT-FIXED",
+  "type": "llm_cot_fixed",
+  "max_tokens_used": 400,
+  "adv_acc": 0.3042,
+  "adv_acc_ci95": [
+    0.2458,
+    0.3625
+  ],
+  "adv_acc_answered_only": 0.6636,
+  "adv_errors": 130,
+  "adv_error_rate_pct": 54.17,
+  "inconclusive": 0,
+  "n_total": 240
+}
